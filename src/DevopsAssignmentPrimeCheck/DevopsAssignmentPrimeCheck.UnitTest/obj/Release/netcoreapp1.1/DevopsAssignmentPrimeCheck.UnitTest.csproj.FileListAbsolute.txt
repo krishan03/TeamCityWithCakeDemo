@@ -1,0 +1,14 @@
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck.UnitTest\bin\Release\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck.UnitTest\bin\Release\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck.UnitTest\bin\Release\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck.UnitTest\bin\Release\netcoreapp1.1\DevopsAssignmentPrimeCheck.UnitTest.deps.json
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck.UnitTest\bin\Release\netcoreapp1.1\DevopsAssignmentPrimeCheck.UnitTest.runtimeconfig.json
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck.UnitTest\bin\Release\netcoreapp1.1\DevopsAssignmentPrimeCheck.UnitTest.runtimeconfig.dev.json
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck.UnitTest\bin\Release\netcoreapp1.1\DevopsAssignmentPrimeCheck.UnitTest.dll
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck.UnitTest\bin\Release\netcoreapp1.1\DevopsAssignmentPrimeCheck.UnitTest.pdb
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck.UnitTest\bin\Release\netcoreapp1.1\DevopsAssignmentPrimeCheck.dll
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck.UnitTest\bin\Release\netcoreapp1.1\DevopsAssignmentPrimeCheck.pdb
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck.UnitTest\obj\Release\netcoreapp1.1\DevopsAssignmentPrimeCheck.UnitTest.csprojResolveAssemblyReference.cache
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck.UnitTest\obj\Release\netcoreapp1.1\DevopsAssignmentPrimeCheck.UnitTest.AssemblyInfo.cs
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck.UnitTest\obj\Release\netcoreapp1.1\DevopsAssignmentPrimeCheck.UnitTest.dll
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck.UnitTest\obj\Release\netcoreapp1.1\DevopsAssignmentPrimeCheck.UnitTest.pdb

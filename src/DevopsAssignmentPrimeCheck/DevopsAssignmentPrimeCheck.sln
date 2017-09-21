@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevopsAssignmentPrimeCheck", "DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck.csproj", "{C4D24696-1827-4E8C-A1C7-6D44FF780655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevopsAssignmentPrimeCheck.UnitTest", "DevopsAssignmentPrimeCheck.UnitTest\DevopsAssignmentPrimeCheck.UnitTest.csproj", "{717B29E1-210F-47C0-9277-E08DC822BB1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4D24696-1827-4E8C-A1C7-6D44FF780655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D24696-1827-4E8C-A1C7-6D44FF780655}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D24696-1827-4E8C-A1C7-6D44FF780655}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D24696-1827-4E8C-A1C7-6D44FF780655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717B29E1-210F-47C0-9277-E08DC822BB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717B29E1-210F-47C0-9277-E08DC822BB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717B29E1-210F-47C0-9277-E08DC822BB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717B29E1-210F-47C0-9277-E08DC822BB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

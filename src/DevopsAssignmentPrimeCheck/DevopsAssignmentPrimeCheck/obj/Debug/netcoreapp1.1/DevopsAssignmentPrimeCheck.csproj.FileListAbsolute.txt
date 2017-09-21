@@ -1,0 +1,8 @@
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck\bin\Debug\netcoreapp1.1\DevopsAssignmentPrimeCheck.deps.json
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck\bin\Debug\netcoreapp1.1\DevopsAssignmentPrimeCheck.runtimeconfig.json
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck\bin\Debug\netcoreapp1.1\DevopsAssignmentPrimeCheck.runtimeconfig.dev.json
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck\bin\Debug\netcoreapp1.1\DevopsAssignmentPrimeCheck.dll
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck\obj\Debug\netcoreapp1.1\DevopsAssignmentPrimeCheck.AssemblyInfo.cs
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck\bin\Debug\netcoreapp1.1\DevopsAssignmentPrimeCheck.pdb
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck\obj\Debug\netcoreapp1.1\DevopsAssignmentPrimeCheck.dll
+D:\NAGP\KrishanDevOps\src\DevopsAssignmentPrimeCheck\DevopsAssignmentPrimeCheck\obj\Debug\netcoreapp1.1\DevopsAssignmentPrimeCheck.pdb
